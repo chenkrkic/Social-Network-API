@@ -6,7 +6,7 @@ A Social Network REST API for social network web application. Users can share th
 ## Table of Contents
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Question](#Question)
+- [Questions](#Questions)
 
 ## Installation
 - Clone the repository
