@@ -4,9 +4,9 @@
 A Social Network REST API for social network web application. Users can share their comments and interact with other users. 
 
 ## Table of Contents
-- Installation(#Installation)
-- Usage(#Usage)
-- Question(#Question)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Question](#Question)
 
 ## Installation
 - Clone the repository
